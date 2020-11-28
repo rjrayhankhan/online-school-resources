@@ -1,0 +1,141 @@
+.button{
+    background-color: #21B573;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 33px;
+    color: white;
+}
+.button1{
+    background-color: #21B573;
+    padding: 5px 28px;
+    border: none;
+    border-radius: 33px;
+    color: white;
+}
+.top-side{
+    background-color: #F0FFF0;
+    padding-top: 10px;
+    
+}
+.top-aria{
+    background-color: #F0FFF0 ;
+    height: 566px;
+}
+.logo{
+    width: 200px;
+}
+.top-banner{
+    width: 100%;
+    padding-top: 20px;
+}
+.text{
+    font-size: 48px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    font-family: arial black;
+    line-height: 60px;
+
+}
+.ready{
+    color: red;
+    margin-bottom: 20px;
+    
+}
+.schedule{
+    color: #21B573;
+}
+.text-line{
+    line-height:30px;
+    margin-bottom: 30px;
+}
+
+.home{
+    font-weight: bold;
+}
+.are{
+    padding-top: 30px;
+}
+.icon{
+    width: 66px;
+    margin-bottom: 20px;
+    
+}
+.icon-border{
+    height: 250px;
+    width: 250px;
+    margin-right:20px ;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    
+}
+.icon-border1{
+    height: 250px;
+    width: 250px;
+    margin-right:20px ;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.secand{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.online{
+    margin-bottom: 100px;
+}
+.card-title{
+    font-weight: bold;
+}
+.see{
+    font-weight: bold;
+    color: rgb(88, 88, 88);
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px rgb(224, 224, 224);
+    
+}
+.image-border{
+    padding: 25px 20px;
+    width: 100%;
+    border-radius: 20px;
+}
+.testimonial{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.text-with-image{
+    width: 750px;
+    padding: 20px;
+    margin: auto;
+}
+.photo-icon{
+    margin-left: 40px;
+}
+.icon1{
+    width: 100px;
+}
+section{
+    background-color: #282531;
+    height: 369px;
+}
+.fornt1{
+    color: white;
+}
+.container2{
+    height:  369px;
+}
+.text-box{
+    width: 100px;
+}
+.box1{
+    width: 350px;
+}
+.all-box{
+    padding-top:70px ;
+}
+.months{
+    padding-top: 30px;
+}
