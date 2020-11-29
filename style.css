@@ -125,7 +125,7 @@ section{
     color: white;
 }
 .container2{
-    height:  369px;
+    margin-top: 100px;
 }
 .text-box{
     width: 100px;
@@ -138,4 +138,11 @@ section{
 }
 .months{
     padding-top: 30px;
+}
+footer{
+    background-color: #282531;
+}
+.copyrihgt{
+    color: white;
+    padding-top: 70px;
 }
